@@ -7,8 +7,6 @@
 
 - 🤝 Open to Collaboration **I am interested in collaborating on projects based on Laravel, React.js, and Vue.js.**
 
-- 📄 Know about my experiences [Interning as a full-stack developer at a software house in Semarang, Central Java, Indonesia](Interning as a full-stack developer at a software house in Semarang, Central Java, Indonesia)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rendhi adhi pramono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rendhi adhi pramono" height="30" width="40" /></a>
